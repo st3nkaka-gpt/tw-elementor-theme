@@ -1,0 +1,17 @@
+/*
+Theme Name: TW Lightweight Theme
+Theme URI: https://muggshot.se
+Author: Thomas Palmqvist
+Description: WCAG-anpassat och lättviktigt tema med Elementor-stöd för Muggshot.se.
+Version: 0.9.1
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: tw-lightweight-theme
+*/
+
+body {
+    /* Basstil – kan utvecklas vidare */
+    font-family: system-ui, sans-serif;
+    background: #fff;
+    color: #111;
+}

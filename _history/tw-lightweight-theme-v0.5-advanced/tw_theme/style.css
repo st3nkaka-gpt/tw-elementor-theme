@@ -1,0 +1,16 @@
+/*
+Theme Name: TW Lightweight Theme
+Author: Thomas & Effie
+Version: 0.1
+Description: Ett snabbt, tillgängligt och lättviktigt tema med Bootstrap, Elementor, WooCommerce-stöd och adminpanel.
+*/
+
+/* Fix for admin bar overlaying header */
+body.admin-bar header {
+  margin-top: 32px;
+}
+@media screen and (max-width: 782px) {
+  body.admin-bar header {
+    margin-top: 46px;
+  }
+}
